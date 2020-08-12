@@ -1,0 +1,2 @@
+# tecno-matica
+Alojamiento de contenidos, inquietudes, saberes, dificultades, recursos sugeridos, con la comunidad educativa del Colegio Jackeline. Temáticas afines a: codificación de información, principios generales de manejo de información, Requerimientos para texto, cálculos, gráficas o vídeo. Modelación de artefactos como sistemas, sean abiertos o realimentados. Buenas prácticas tanto por recomendación técnica, ética o legal.,
